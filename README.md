@@ -1,5 +1,7 @@
-# eBook Website
+# Bootstrap 5 Learning Project
 
-A straightforward Bootstrap 5 eBook website for seamless reading.
+Developed while mastering Bootstrap 5 for responsive and stylish web design.
 
-![Website Preview](https://i.ibb.co/jHPc3Q4/Screenshot-34.png)
+![Project Screenshot](https://i.ibb.co/jHPc3Q4/Screenshot-34.png)
+
+Live Preview: [Check it out here](https://ebook-website-jet-ten.vercel.app/)
